@@ -2,5 +2,5 @@
 
 
 # git clone https://github.com/wdnchill/Absensi
-# cd Abssensi
+# cd Absensi
 
